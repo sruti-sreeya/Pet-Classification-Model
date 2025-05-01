@@ -42,7 +42,7 @@ pet-classification-resnet/
 Getting Started
 
 Clone the Repository:
-git clone https://github.com/your-username/pet-classification-resnet.git
+git clone https://github.com/sruti-sreeya/Pet-Classification-Model.git
 cd pet-classification-resnet
 
 
